@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "Completely different conflicting change from main" 
+=======
+"Conflicting change from develop" 
+>>>>>>> develop
